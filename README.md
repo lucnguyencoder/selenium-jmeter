@@ -1,5 +1,11 @@
 BÁO CÁO KIỂM THỬ HIỆU NĂNG (LOAD TESTING) VỚI JMETER
+
+
+
 Tên Dự Án: Kiểm thử chịu tải API hệ thống quản lý người dùng (Reqres.in)
+
+
+
 Người Kiểm Thử: Nguyễn Tiến Lực MSV: 23010862
 
 1. Mục Tiêu Kiểm Thử
